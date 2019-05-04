@@ -39,9 +39,10 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
   <summary> Show Student Solutions </summary>
 
 - Add your solution below this line!
+- [Ginner's Solution](https://github.com/ginnerzapata/Pokemon-RPS) - [View in Browser](https://ginnerzapata.github.io/Pokemon-RPS/)
 - [holhen's solution](https://github.com/holhen/RockPaperScissors)
-- [Morghan102's solution](https://github.com/morghan102/rock_paper_scissors) - [View in Browser(https://morghan102.github.io/rock_paper_scissors/)
 - [Piscu's Solution](https://github.com/Piscu8/rps) - [View in Browser](https://piscu8.github.io/rps/)
+- [Morghan102's solution](https://github.com/morghan102/rock_paper_scissors) - [View in Browser(https://morghan102.github.io/rock_paper_scissors/)
 - [Jose Salvador's Solution](https://github.com/Jsalvadorpp/RockPaperScissors-GUI) - [View in Browser](https://jsalvadorpp.github.io/RockPaperScissors-GUI/)
 - [Muhymenul Haque's Solution](https://github.com/muhymenulhaque/rock_paper_scissors) - [View in Browser](https://muhymenulhaque.github.io/rock_paper_scissors/)
 - [Nicolás Nisoria's Solution](https://github.com/niconisoria/rock-paper-scissors) - [View in Browser](https://niconisoria.github.io/rock-paper-scissors/)
