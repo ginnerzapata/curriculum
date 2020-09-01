@@ -49,6 +49,7 @@ To add your solution to the list below, edit this [file](https://github.com/TheO
   <summary> Show Student Solutions </summary>
 
 - Add your solution below this line!
+- [Ginner's Solution](https://github.com/ginnerzapata/restaurant) - [View in Browser](https://ginnerzapata.github.io/restaurant/)
 - [Daegudude's Solution](https://github.com/DaeguDude/TOP-restaurant) - [View in Browser](https://daegudude.github.io/TOP-restaurant/)
 - [Daniel Solomon's Solution](https://github.com/danisolo91/restaurant-page) - [View in Browser](https://danisolo91.github.io/restaurant-page/)
 - [Sasoun's Solution](https://github.com/SasounTorossian/Restaurant-Page) - [View in Browser](https://sasountorossian.github.io/Restaurant-Page/)
